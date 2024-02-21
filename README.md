@@ -1,2 +1,2 @@
 # About 
-A simple TIC-TAC-TOE game with JavaScipt.
+A simple TIC-TAC-TOE game made with JavaScipt.
